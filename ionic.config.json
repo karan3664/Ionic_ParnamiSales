@@ -1,0 +1,7 @@
+{
+  "name": "Sales-Parnami-Ecommerce",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

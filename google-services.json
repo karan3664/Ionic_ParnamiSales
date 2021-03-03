@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099175482170",
+    "firebase_url": "https://parnami-app.firebaseio.com",
+    "project_id": "parnami-app",
+    "storage_bucket": "parnami-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099175482170:android:8d2c5ec35b8b9f52ce7603",
+        "android_client_info": {
+          "package_name": "com.parnamib2b.sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099175482170-4290ijdlq7q457mp8ccs5fsdaat682uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2efYVdpIOBAG9nO4pY72Ns2FpKgsGxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099175482170-4290ijdlq7q457mp8ccs5fsdaat682uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
